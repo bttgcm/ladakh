@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ladakh Knowledge Hub
 
 You can use the [editor on GitHub](https://github.com/bttgcm/ladakh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
