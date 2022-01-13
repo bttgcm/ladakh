@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Customization
-nav_order: 4
+title: About
+nav_order: 1
 ---
 
 ## Welcome to Ladakh Knowledge Hub
